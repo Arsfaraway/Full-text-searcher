@@ -1,0 +1,8 @@
+add_subdirectory(libparser)
+add_subdirectory(parser-cli)
+add_subdirectory(libindex)
+add_subdirectory(index-cli)
+add_subdirectory(libindexaccessor)
+add_subdirectory(indexaccessor-cli)
+add_subdirectory(libdriver)
+add_subdirectory(driver-cli)
