@@ -63,11 +63,11 @@ To get a local copy up and running follow these simple example steps.
 
 ## Usage
 
-Usage: driver-cli.exe [OPTIONS] [SUBCOMMAND]
+driver-cli.exe [OPTIONS] [SUBCOMMAND]
 
 Subcommands:
  1. index   --- Build an index
-  2. search  --- Search the index
+ 2. search  --- Search the index
 
 Use the following commands by default:
 1. driver-cli.exe index
