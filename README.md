@@ -84,7 +84,7 @@ Free usage
 
 ## Authors
 
-* **Arseny Ermakov** - *is a student at the Institute of Computer Science and Technology of the Siberian State University of Telecommunications and Informatics* - [Arseny Ermakov](https://github.com/Arsfaraway/Full-text-searcher) - **
+* **Arseny Ermakov** - *is a student at the Institute of Computer Science and Technology of the Siberian State University of Telecommunications and Informatics* - [Arseny Ermakov](https://github.com/Arsfaraway) - **
 
 ## Acknowledgements
 
