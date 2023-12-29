@@ -4,7 +4,7 @@
     <img src="https://cdn1.iconfinder.com/data/icons/trycons/32/search-1024.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h2 align="center">Full-text searcher</h2>
+  <h1 align="center">Full-text searcher</h1>
 
   <p align="center">
     full-text document search .csv
