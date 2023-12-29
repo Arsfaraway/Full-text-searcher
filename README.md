@@ -77,9 +77,6 @@ Or use the following full commands as an example:
 1. driver-cli.exe index --csv ../../../books.csv --index ../../../src/ --config ../../../src/driver-cli/config.json
 2. driver-cli.exe search --index ../../../src/ --config ../../../src/driver-cli/config.json --query harry
 
-### Creating A Pull Request
-
-
 
 ## License
 
