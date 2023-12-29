@@ -54,12 +54,12 @@ To get a local copy up and running follow these simple example steps.
 
 ### Installation
 
-git clone https://github.com/Arsfaraway/Full-text-searcher.git
-cd Full-text-search/
-cmake --preset release
-cmake --build --preset release
-cd build/release/
-sudo ninja install
+1. git clone https://github.com/Arsfaraway/Full-text-searcher.git
+2. cd Full-text-search/
+3. cmake --preset release
+4. cmake --build --preset release
+5. cd build/release/
+6. sudo ninja install
 
 ## Usage
 
