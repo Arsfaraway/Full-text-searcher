@@ -19,7 +19,7 @@
 
 * [About the Project](#about-the-project)
 * [Getting Started](#getting-started)
-  * [Installation](#installation)
+* [Installation](#installation)
 * [Usage](#usage)
 * [License](#license)
 * [Authors](#authors)
